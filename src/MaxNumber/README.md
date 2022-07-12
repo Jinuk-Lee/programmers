@@ -2,7 +2,7 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
-[개인 노션 링크](https://jinuk.notion.site/1753-3c0e9c835442453aa8ddc506d45e9c18)
+[개인 노션 링크](https://jinuk.notion.site/b83453ce526a446497304a3ebbe94c6f)
 
 #### 문제 설명
 0 또는 양의 정수가 주어졌을 때, 정수를 이어 붙여 만들 수 있는 가장 큰 수를 알아내 주세요.
